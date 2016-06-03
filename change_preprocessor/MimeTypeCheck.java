@@ -20,7 +20,6 @@ public class MimeTypeCheck implements ChangePreprocessor {
 
 		try {
 			boolean checkMimeType = false;
-
 			String allowedMimeTypes[] = { "image/tif", "image/tiff",
 					"application/pdf", "image/bmp", "image/jpeg", "image/jpg" };
 
