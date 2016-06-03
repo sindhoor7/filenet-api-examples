@@ -1,4 +1,4 @@
-package com.ibm.idea.changepreprocessor;
+package change_preprocessor;
 
 import java.util.HashSet;
 import java.util.Set;
