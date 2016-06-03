@@ -6,7 +6,7 @@ import java.util.Date;
 import com.filenet.api.admin.CmSearchFunctionDefinition;
 import com.filenet.api.engine.SearchFunctionHandler;
 
-public class CustomSearchFunctionHandler implements SearchFunctionHandler{
+public class GetNumberOfDays implements SearchFunctionHandler{
 
 	@Override
 	public Object evaluate(CmSearchFunctionDefinition definition, Object[] parameters) {
