@@ -2,9 +2,9 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Documents/!dea/Projects/FileNet DMS/Idea FileNet DMS/PCRs/Ops PCRs/03 OPS00246 Online churn &amp; 1 Time Full Churn/06 Misc/SharedLib/client-download.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Documents/!dea/Projects/FileNet DMS/Idea FileNet DMS/PCRs/Ops PCRs/03 OPS00246 Online churn &amp; 1 Time Full Churn/06 Misc/SharedLib/Jace.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Documents/!dea/Projects/FileNet DMS/Idea FileNet DMS/PCRs/Ops PCRs/03 OPS00246 Online churn &amp; 1 Time Full Churn/06 Misc/SharedLib/log4j-1.2.14.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Documents/!dea/Projects/FileNet DMS/Idea FileNet DMS/PCRs/Ops PCRs/03 OPS00246 Online churn &amp; 1 Time Full Churn/06 Misc/SharedLib/p8cel10n.jar"/>
+	<classpathentry kind="lib" path="lib/client-download.jar"/>
+	<classpathentry kind="lib" path="lib/Jace.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="lib/p8cel10n.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
